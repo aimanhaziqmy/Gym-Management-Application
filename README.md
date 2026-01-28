@@ -4,6 +4,8 @@
 GymOS is a **production-ready, React-based gym management application** designed to handle day-to-day gym operations efficiently.  
 It manages **member subscriptions, walk-in guests, revenue tracking, and staff access**, all powered by **Firebase**.
 
+![Screenshot](https://i.postimg.cc/MpMzwQcZ/Screenshot-2026-01-29-012951.png "Screenshot 2026-01-29")
+
 ---
 
 ## 🚀 Features
